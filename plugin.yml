@@ -1,0 +1,10 @@
+name: A_Time
+version: 0.1
+author: AlvenxPlay
+main: me.AlvenxPlay.CheckTime.Main
+
+commands:
+  check:
+    description: You can check data of player.
+    aliases: [acheck, czas, online]
+    permissions: time.check
